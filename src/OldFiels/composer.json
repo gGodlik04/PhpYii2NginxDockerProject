@@ -1,0 +1,11 @@
+{
+  "require": {
+    "php-webdriver/webdriver": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "CloudCrm\\": "class",
+      "CloudCrm\\sites\\": "sites"
+    }
+  }
+}
